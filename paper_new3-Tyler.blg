@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper_new3-Tyler.aux
+The style file: apsrev4-1.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: paper_new3-TylerNotes.bib
+Database file #2: refs/refs.bib.bib
+Database file #3: refs/refs2.bib.bib
+Warning--I didn't find a database entry for "Kuijk2015"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--empty title in Gao15
+Warning--empty year in Gao15
+You've used 16 entries,
+            5847 wiz_defined-function locations,
+            1743 strings with 18343 characters,
+and the built_in function-call counts, 16984 in all, are:
+= -- 1034
+> -- 498
+< -- 114
++ -- 154
+- -- 120
+* -- 2734
+:= -- 1632
+add.period$ -- 16
+call.type$ -- 16
+change.case$ -- 65
+chr.to.int$ -- 16
+cite$ -- 18
+duplicate$ -- 1552
+empty$ -- 1224
+format.name$ -- 292
+if$ -- 3367
+int.to.chr$ -- 1
+int.to.str$ -- 24
+missing$ -- 198
+newline$ -- 100
+num.names$ -- 48
+pop$ -- 639
+preamble$ -- 1
+purify$ -- 79
+quote$ -- 0
+skip$ -- 590
+stack$ -- 0
+substring$ -- 403
+swap$ -- 1519
+text.length$ -- 60
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 236
+warning$ -- 2
+while$ -- 46
+width$ -- 0
+write$ -- 178
+(There were 3 warnings)
