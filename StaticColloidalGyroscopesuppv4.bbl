@@ -1,0 +1,41 @@
+\begin{thebibliography}{4}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Crocker and Grier}(1996)}]{Crocker1996}
+\bibinfo{author}{\bibfnamefont{J.~C.} \bibnamefont{Crocker}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.~G.} \bibnamefont{Grier}},
+  \bibinfo{journal}{Journal of Colloid and Interface Science}
+  \textbf{\bibinfo{volume}{179}}, \bibinfo{pages}{298} (\bibinfo{year}{1996}).
+
+\bibitem[{\citenamefont{Gao and L}(2009)}]{Gao2009}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Gao}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{K.~M.} \bibnamefont{L}},
+  \bibinfo{journal}{Optics Express} \textbf{\bibinfo{volume}{17}},
+  \bibinfo{pages}{4685} (\bibinfo{year}{2009}).
+
+\bibitem[{\citenamefont{Curtis et~al.}(2002)\citenamefont{Curtis, Koss, and
+  Grier}}]{Curtis2002}
+\bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Curtis}},
+  \bibinfo{author}{\bibfnamefont{B.~A.} \bibnamefont{Koss}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.~H.} \bibnamefont{Grier}},
+  \bibinfo{journal}{Optics Communications} \textbf{\bibinfo{volume}{207}},
+  \bibinfo{pages}{169} (\bibinfo{year}{2002}).
+
+\bibitem[{\citenamefont{Lee and Grier}(2007)}]{Lee2007}
+\bibinfo{author}{\bibfnamefont{S.~H.} \bibnamefont{Lee}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.~G.} \bibnamefont{Grier}},
+  \bibinfo{journal}{Optics Express} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{1505} (\bibinfo{year}{2007}).
+
+\end{thebibliography}

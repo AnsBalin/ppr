@@ -84,7 +84,7 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.}~\bibnamefont
   {Chou}}\ and\ \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Lohse}},\
   }\href {http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.82.3552}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physical review letters}\
+  {\bibfield  {journal} {\bibinfo  {journal} {Physical Review Letters}\
   }\textbf {\bibinfo {volume} {82}},\ \bibinfo {pages} {0} (\bibinfo {year}
   {1999})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Zwanzig}(1992)}]{Zwanzig1992}%
@@ -122,11 +122,11 @@
   {Marchetti}(2009)}]{Baskaran2009}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
-  {Baskaran}}\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Baskaran}}\ and\ \bibinfo {author} {\bibfnamefont {M.~C.}\ \bibnamefont
   {Marchetti}},\ }\href {http://www.pnas.org/content/106/37/15567.short}
   {\bibfield  {journal} {\bibinfo  {journal} {Proceedings of the National
-  \ldots}\ }\textbf {\bibinfo {volume} {106}} (\bibinfo {year}
-  {2009})}\BibitemShut {NoStop}%
+  Academy of Sciences}\ }\textbf {\bibinfo {volume} {106}},\ \bibinfo {pages}
+  {15567} (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Marchetti}\ \emph {et~al.}(2013)\citenamefont
   {Marchetti}, \citenamefont {Joanny}, \citenamefont {Ramaswamy}, \citenamefont
   {Liverpool}, \citenamefont {Prost}, \citenamefont {Rao},\ and\ \citenamefont
@@ -152,7 +152,7 @@
   {author} {\bibfnamefont {T.}~\bibnamefont {Kline}}, \ and\ \bibinfo {author}
   {\bibfnamefont {A.}~\bibnamefont {Sen}},\ }\href
   {http://pubs.acs.org/doi/abs/10.1021/nl0701556} {\bibfield  {journal}
-  {\bibinfo  {journal} {Nano letters}\ }\textbf {\bibinfo {volume} {7}},\
+  {\bibinfo  {journal} {Nano Letters}\ }\textbf {\bibinfo {volume} {7}},\
   \bibinfo {pages} {1010} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Shelton}\ \emph {et~al.}(2005)\citenamefont
   {Shelton}, \citenamefont {Bonin},\ and\ \citenamefont
@@ -192,7 +192,7 @@
   \citenamefont {Sanchez},\ and\ \citenamefont {Schmidt}}]{Xi2013}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.}~\bibnamefont
-  {Xi}}, \bibinfo {author} {\bibfnamefont {A.~a.}\ \bibnamefont {Solovev}},
+  {Xi}}, \bibinfo {author} {\bibfnamefont {A.~A.}\ \bibnamefont {Solovev}},
   \bibinfo {author} {\bibfnamefont {A.~N.}\ \bibnamefont {Ananth}}, \bibinfo
   {author} {\bibfnamefont {D.~H.}\ \bibnamefont {Gracias}}, \bibinfo {author}
   {\bibfnamefont {S.}~\bibnamefont {Sanchez}}, \ and\ \bibinfo {author}
