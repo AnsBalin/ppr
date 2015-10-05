@@ -1,22 +1,19 @@
 Dear Editor,
 
-We submit our manuscript entitled "Thermal analogue of gimbal lock in a colloidal ferromagnetic Janus rod" to Physical Review Letters for your consideration.
+We submit our manuscript entitled "Thermal analogue of gimbal lock in a colloidal ferromagnetic Janus rod" for your consideration.
 
-In our Letter we demonstrate the hopping behaviour between horizontal and vertical states of a ferromagnetic colloidal rod in the presence of a magnetic field. While this kind of hopping might be a common observation for a system posessing a double-well potential, our system posesses no such feature and in fact has a monotonically increasing potential between these two states. To understand these novel observations, we develop a theoretical model containing no free-parameters which validates our observation by showing that the external field results in the emergence of these two bistable states. We show that this effect is entropic by nature, and provide a mathematical and accompanying intuitive interpretation of its origin.
+In our Letter we demonstrate the hopping behaviour between horizontal and vertical states of a ferromagnetic colloidal rod in the presence of a magnetic field. While this kind of hopping might be a common observation for a system posessing a double-well potential, our system posesses no such feature and in fact has a monotonically increasing potential between these two states. To understand these observations, we develop a theoretical model containing no free-parameters which validates our observation by showing that the external field results in the emergence of these two bistable states. We show that this effect is entropic by nature, and provide an intuitive interpretation of its origin.
 
 A lot of current research focuses on the manipulation of nano- and micro-scopic particles by application of external fields, and especially the role entropy has to play on the organization, self-assembly and single-particle mechanics of such systems. As such, we expect our results to be of importance to those who study the statistical mechanics, dynamics, and control of colloids, micro-tools, and other such devices. 
 
-In fact, the model system which we consider is simple enough that the basic physics we describe is generic to any system whose potential energy contains no continuous rotational symmetry and is in a critigal temperature regime where thermal torques are comparable to external ones (in our case, gravitational and magnetic). We expect, therefore our results to be of broad interest across the many fields in which statistical mechanics plays an important role.
+In fact, the model system which we consider is simple enough that the basic physics we describe is generic to any system whose potential energy contains no continuous rotational symmetry and is in a critical temperature regime where thermal torques are comparable to external ones (in our case, gravitational and magnetic). We therefore expect our results to be of broad interest across the many fields in which statistical mechanics plays an important role.
 
 For these reasons, we believe our work to be appropriate for publication in Physical Review Letters.
 
-Yours,
+Yours sincerely,
 
-Yongxiang Gao,
-Andrew Balin,
-Roel Dullens,
-Julia Yeomans,
-Dirk Aarts.
+The Authors
+Yongxiang Gao, Andrew Balin, Roel Dullens, Julia Yeomans, Dirk Aarts.
 
 
 

@@ -12,6 +12,7 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: paper_new3-TylerNotes.bib
 Database file #2: refs/refs.bib.bib
 Database file #3: refs/refs2.bib.bib
+Database file #4: refs/refs3.bib.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
 Control: key (0) 
@@ -23,45 +24,45 @@ Control: year (1) truncated
 Control: production of eprint (0) enabled
 Warning--empty title in Gao15
 Warning--empty year in Gao15
-You've used 16 entries,
+You've used 21 entries,
             5847 wiz_defined-function locations,
-            1741 strings with 18327 characters,
-and the built_in function-call counts, 17071 in all, are:
-= -- 1040
-> -- 499
-< -- 115
-+ -- 154
-- -- 120
-* -- 2747
-:= -- 1637
-add.period$ -- 16
-call.type$ -- 16
-change.case$ -- 65
-chr.to.int$ -- 16
-cite$ -- 18
-duplicate$ -- 1555
-empty$ -- 1231
-format.name$ -- 292
-if$ -- 3389
+            1790 strings with 19502 characters,
+and the built_in function-call counts, 21896 in all, are:
+= -- 1362
+> -- 618
+< -- 146
++ -- 192
+- -- 148
+* -- 3479
+:= -- 2122
+add.period$ -- 21
+call.type$ -- 21
+change.case$ -- 85
+chr.to.int$ -- 21
+cite$ -- 23
+duplicate$ -- 1996
+empty$ -- 1594
+format.name$ -- 359
+if$ -- 4360
 int.to.chr$ -- 1
-int.to.str$ -- 24
-missing$ -- 199
-newline$ -- 100
-num.names$ -- 48
-pop$ -- 638
+int.to.str$ -- 29
+missing$ -- 258
+newline$ -- 115
+num.names$ -- 63
+pop$ -- 818
 preamble$ -- 1
-purify$ -- 79
+purify$ -- 104
 quote$ -- 0
-skip$ -- 596
+skip$ -- 781
 stack$ -- 0
-substring$ -- 419
-swap$ -- 1525
-text.length$ -- 60
+substring$ -- 567
+swap$ -- 1943
+text.length$ -- 74
 text.prefix$ -- 0
 top$ -- 8
-type$ -- 236
+type$ -- 305
 warning$ -- 2
-while$ -- 47
+while$ -- 62
 width$ -- 0
-write$ -- 178
+write$ -- 218
 (There were 2 warnings)
